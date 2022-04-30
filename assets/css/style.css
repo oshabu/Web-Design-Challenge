@@ -1,0 +1,43 @@
+.navbar-brand {
+    font-family: 'Times New Roman', Times, serif;
+    color: white !important;
+    background-color: #0ce0b2;
+    padding: 20px;
+    margin-left: 20px;
+  }
+  
+  .container {
+    font-family:'Times New Roman', Times, serif;
+    color: darkgray;
+    text-align: center;
+  }
+  
+  h1 {
+    font-family:'Times New Roman', Times, serif;
+    color: #0ce0b2 !important;
+    text-align: center;
+  }
+  
+  h2 {
+    font-family:'Times New Roman', Times, serif;
+    color: #0ce0b2 !important;
+    text-align: left;
+  }
+  
+  h4 {
+    font-family:'Times New Roman', Times, serif;
+    color: black !important;
+    text-align: left;
+    font-size: medium;
+  }
+  
+  table {
+    font-family:'Times New Roman', Times, serif;
+    color: black;
+    background-color: white;
+  }
+  
+  body {
+    background-color: lightgray;
+    
+  }
